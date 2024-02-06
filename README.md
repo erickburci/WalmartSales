@@ -90,6 +90,6 @@ rating | Rating | FLOAT(2, 1)
 10. Which day of the week has the best average ratings per branch?
 
 ## Code
-For the rest of the code, check the
+For the rest of the code, check the WalmartSales_queries.sql file
 
 ![Screenshot 2024-02-05 181230](https://github.com/erickburci/WalmartSales/assets/159087967/f95143c1-eb31-4c2d-9843-6882561ecc0d)
